@@ -22,9 +22,9 @@
     "url": "http://jouwplanb.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jouwplanb.com.ico",
     "slug": "jouwplan-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1131,
     "timeMonth": 1050,
     "timeYear": 1050,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-06": 0
+    }
   },
   {
     "name": "Brightest",
