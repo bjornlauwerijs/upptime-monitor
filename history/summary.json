@@ -42,19 +42,19 @@
     "url": "https://www.brightest.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.brightest.be.ico",
     "slug": "brightest",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1172,
-    "timeDay": 997,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1176,
+    "timeDay": 1122,
     "timeWeek": 1243,
-    "timeMonth": 1172,
-    "timeYear": 1172,
+    "timeMonth": 1176,
+    "timeYear": 1176,
     "dailyMinutesDown": {
-      "2023-01-09": 1
+      "2023-01-09": 12
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://academy.brightest.be/",
     "icon": "https://icons.duckduckgo.com/ip3/academy.brightest.be.ico",
     "slug": "brightest-academy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2952,
-    "timeDay": 2400,
-    "timeWeek": 3248,
-    "timeMonth": 2952,
-    "timeYear": 2952,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2975,
+    "timeDay": 2859,
+    "timeWeek": 3257,
+    "timeMonth": 2975,
+    "timeYear": 2975,
     "dailyMinutesDown": {
-      "2023-01-09": 0
+      "2023-01-09": 11
     }
   }
 ]
