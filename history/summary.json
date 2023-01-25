@@ -4,10 +4,10 @@
     "url": "https://www.ibsbelgium.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ibsbelgium.org.ico",
     "slug": "ibs-belgium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "99.45%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 3058,
@@ -16,7 +16,7 @@
     "timeMonth": 3058,
     "timeYear": 3058,
     "dailyMinutesDown": {
-      "2023-01-25": 56
+      "2023-01-25": 57
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jouwplanb.com.ico",
     "slug": "jouwplan-b",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "93.03%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.61%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 1479,
     "timeDay": 7715,
     "timeWeek": 2838,
     "timeMonth": 1479,
     "timeYear": 1479,
     "dailyMinutesDown": {
-      "2023-01-25": 100,
+      "2023-01-25": 115,
       "2023-01-06": 41
     }
   },
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brightest.be.ico",
     "slug": "brightest",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1162,
     "timeDay": 991,
     "timeWeek": 1187,
     "timeMonth": 1162,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 15
     }
   },
   {
