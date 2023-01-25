@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ibsbelgium.org.ico",
     "slug": "ibs-belgium",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 3081,
     "timeDay": 12635,
     "timeWeek": 5128,
     "timeMonth": 3081,
     "timeYear": 3081,
     "dailyMinutesDown": {
-      "2023-01-25": 42
+      "2023-01-25": 50
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jouwplanb.com.ico",
     "slug": "jouwplan-b",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "94.04%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.66%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 1479,
     "timeDay": 7715,
     "timeWeek": 2838,
     "timeMonth": 1479,
     "timeYear": 1479,
     "dailyMinutesDown": {
-      "2023-01-25": 86,
+      "2023-01-25": 93,
       "2023-01-06": 41
     }
   },
@@ -63,19 +63,19 @@
     "url": "https://academy.brightest.be/",
     "icon": "https://icons.duckduckgo.com/ip3/academy.brightest.be.ico",
     "slug": "brightest-academy",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 3373,
-    "timeDay": 5969,
-    "timeWeek": 4119,
-    "timeMonth": 3373,
-    "timeYear": 3373,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 3528,
+    "timeDay": 6712,
+    "timeWeek": 4557,
+    "timeMonth": 3528,
+    "timeYear": 3528,
     "dailyMinutesDown": {
-      "2023-01-25": 18
+      "2023-01-25": 26
     }
   }
 ]
