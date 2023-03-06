@@ -68,11 +68,11 @@
     "url": "https://academy.brightest.be/",
     "icon": "https://icons.duckduckgo.com/ip3/academy.brightest.be.ico",
     "slug": "brightest-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 3611,
     "timeDay": 3231,
@@ -80,7 +80,7 @@
     "timeMonth": 3831,
     "timeYear": 3611,
     "dailyMinutesDown": {
-      "2023-03-06": 6,
+      "2023-03-06": 0,
       "2023-03-05": 17,
       "2023-01-25": 18
     }
